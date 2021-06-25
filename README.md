@@ -1,4 +1,4 @@
-# Leishmania_donovani_microRNA_targets_in_Mus_musculus 
+# Leishmania donovani microRNA targets in Mus musculus 
 
 The targets for microRNA were identified by miRanda in bash. The GO enrichment analysis and clustering were performed using custom codes written in python. 
 
